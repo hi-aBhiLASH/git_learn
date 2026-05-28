@@ -6,3 +6,4 @@ hello github
 one more hi 
 second hi added by remote 
 third hi added by local2
+i am adding from 1 
