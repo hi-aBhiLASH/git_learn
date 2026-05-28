@@ -1,0 +1,60 @@
+[33mcommit 1130a13600bc16f1d5f2eec9e9cb0c1366e44587[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Abhilash <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 17:49:30 2026 +0530
+
+    Add 'second hi added by remote' to one.txt
+
+[33mcommit 8373428940b59b1d03515525dd6358378e814a2f[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m)[m
+Author: aBhiLASH <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 12:09:27 2026 +0000
+
+    need to update hub
+
+[33mcommit d9b96935f5774c9c0d911421574ec089fb733f69[m
+Author: aBhiLASH <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 12:04:29 2026 +0000
+
+    need to update hub
+
+[33mcommit 97d3aa50cf895301e64c72e08c18424ca409fdbd[m
+Merge: 5e59aeb 2a3b88d
+Author: aBhiLASH <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 07:22:25 2026 +0000
+
+    merged
+
+[33mcommit 5e59aebb197e4a64df1469a4391fb338531c68ec[m
+Author: aBhiLASH <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 07:18:51 2026 +0000
+
+    some update in master
+
+[33mcommit 2a3b88d78c75999dca0db25be4537fb120cc1b12[m
+Author: aBhiLASH <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 07:02:45 2026 +0000
+
+    alt updated
+
+[33mcommit c9cd7d08e280fa45676e02f9179d349c8860b5b9[m
+Author: aBhiLASH <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 06:55:55 2026 +0000
+
+    second update
+
+[33mcommit 9a2d06ce86e73758458d58e13e66c0160473b393[m
+Author: aBhiLASH <cs23b019@smail.iitm.ac.in>
+Date:   Thu May 28 06:32:24 2026 +0000
+
+    not added .env
+
+[33mcommit 93d08f14c0f3bb8150c867e02a13c76ab32d9ab3[m
+Author: abhilash <abhilash211005@gmail.com>
+Date:   Thu May 28 06:15:33 2026 +0000
+
+    added second file
+
+[33mcommit 13499da9e9042d5d75c7d6e66fd080cfc136f778[m
+Author: abhilash <abhilash211005@gmail.com>
+Date:   Thu May 28 06:06:34 2026 +0000
+
+    added first file
